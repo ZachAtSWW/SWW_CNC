@@ -1,5 +1,7 @@
 import csv
 
+"""CSV cannot contain special characters '#', '&', etc"""
+
 # Name of csv being imported without '.csv'
 naming_config = 'Holmby_Master_Bath'
 # .bSolid file referenced by bNest for tooling information
@@ -35,7 +37,7 @@ def convert_to_float(frac_str):
 """Opens the csv that is in inches, converts data into list format.
 Uses functions convert_to_float and imperial to metric to prep data
 """ 
-with open(opening_csv,encoding='utf-8') as csvfile:
+with open(opening_csv,newline='',encoding='utf-8') as csvfile:
     the_Reader = csv.reader(csvfile, delimiter=',')
     rows = list(the_Reader)
     new_metric_csv.append(rows[0])
