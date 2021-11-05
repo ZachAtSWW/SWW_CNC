@@ -42,14 +42,15 @@ with open(opening_csv,newline='',encoding='utf-8') as csvfile:
     rows = list(the_Reader)
     new_metric_csv.append(rows[0])
     for row in rows[1:]:
-        qty, length, width, thickness = row[2:6]
+        qty = row[2]
+        length, width, thickness = row[6:9]
         length = convert_to_float(length)
         width = convert_to_float(width)
         thickness = convert_to_float(thickness)
         row[2] = int(qty)
-        row[3] = imperial_to_metric(length)
-        row[4] = imperial_to_metric(width)
-        row[5] = imperial_to_metric(thickness)
+        row[6] = imperial_to_metric(length)
+        row[7] = imperial_to_metric(width)
+        row[8] = imperial_to_metric(thickness)
         new_metric_csv.append(row)
 
     
@@ -67,9 +68,9 @@ with open(csv_metric, 'w', newline="",encoding='utf-8') as csvfile:
             'JobOrder': 'bNest',
             'Name': row[1],
             'DESC': 'RECT_Param',
-            'LENGTH': row[3],
-            'WIDTH': row[4],
-            'THICK': row[5],
+            'LENGTH': row[6],
+            'WIDTH': row[7],
+            'THICK': row[8],
             'WoodType': row[10],
             'Grain': 0,
             'LabelImage': row[1],
