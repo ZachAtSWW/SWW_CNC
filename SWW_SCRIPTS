@@ -1,0 +1,17 @@
+import datetime
+
+def main():
+    start_mon = input('Starting Month: ')
+    start_day = input('Starting Day: ')
+    end_mon = input('Ending Month: ')
+    end_day = input('Ending Day: ')
+
+    start_time = datetime.date(2021,start_mon,start_day)
+    end_time = datetime.date(2021,end_mon,end_day)
+
+
+while True:
+    main()
+    to_continue = input("Continue Finding Time Deltas [Y/n]? ")
+    if to_continue == 'n':
+        exit()
