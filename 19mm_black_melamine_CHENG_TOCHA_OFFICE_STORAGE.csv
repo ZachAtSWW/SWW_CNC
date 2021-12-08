@@ -1,0 +1,5 @@
+﻿No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,UPPER_BOX_END,2,"42 3/4""","19 13/16""","3/4""","42 3/4""","19 13/16""","3/4""",5.8818 ft²,BLACK MELAMINE,"","","","","","",""
+B,LOWER_CAB_TandB,2,"34 5/8""","19 13/16""","3/4""","34 5/8""","19 13/16""","3/4""",4.7639 ft²,BLACK MELAMINE,"","","","","","",""
+C,LOWER_CAB_END,2,"26 3/4""","19 13/16""","3/4""","26 3/4""","19 13/16""","3/4""",3.6804 ft²,BLACK MELAMINE,"","","","","","",""
+D,UPPER_BOX_TandB_OR_SHELF,5,"23 7/8""","19 13/16""","3/4""","23 7/8""","19 13/16""","3/4""",3.2849 ft²,BLACK MELAMINE,"","","","","","",""
