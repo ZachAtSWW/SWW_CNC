@@ -1,0 +1,3 @@
+﻿No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,UPPER_CAB_BACK,1,"42 3/4""","25 3/8""","1/4""","42 3/4""","25 3/8""","1/4""",7.5332 ft²,BLACK_MELAMINE,"","","","","","",""
+B,LOWER_CAB_BACK,1,"36 1/8""","26 3/4""","1/4""","36 1/8""","26 3/4""","1/4""",6.7107 ft²,BLACK_MELAMINE,"","","","","","",""

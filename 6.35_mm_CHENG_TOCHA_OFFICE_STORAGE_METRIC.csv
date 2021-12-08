@@ -1,0 +1,3 @@
+QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
+1,biesse,bNest,UPPER_CAB_BACK,RECT_Param,1085.85,644.52,6.35,BLACK_MELAMINE,0,UPPER_CAB_BACK,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,LOWER_CAB_BACK,RECT_Param,917.57,679.45,6.35,BLACK_MELAMINE,0,LOWER_CAB_BACK,RECTparamCLEAF.bSolid,0,0,0,0,0
