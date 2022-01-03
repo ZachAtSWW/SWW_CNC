@@ -1,6 +1,6 @@
 QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
 1,biesse,bNest,WALL_PNL_G,RECT_Param,2311.4,989.01,19.05,R_W_O,0,WALL_PNL_G,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,G+A_Toekick,RECT_Param,1935.16,101.6,19.05,R_W_O,0,G+A_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,GandA_Toekick,RECT_Param,1935.16,101.6,19.05,R_W_O,0,G+A_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,WALL_PNL_A,RECT_Param,2311.4,962.02,19.05,R_W_O,0,WALL_PNL_A,RECTparamCLEAF.bSolid,0,0,0,0,0
 4,biesse,bNest,41_AND_HALF_HEAD_PNL,RECT_Param,304.8,1054.1,19.05,R_W_O,0,41_AND_HALF_HEAD_PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,WALL_PNL_B,RECT_Param,2311.4,1123.95,19.05,R_W_O,0,WALL_PNL_B,RECTparamCLEAF.bSolid,0,0,0,0,0
