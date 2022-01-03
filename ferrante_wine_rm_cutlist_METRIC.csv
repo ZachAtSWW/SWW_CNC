@@ -1,38 +1,38 @@
 QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
-1,biesse,bNest,WALL_PNL_G,RECT_Param,2311.4,989.01,19.05,R_W_O,0,WALL_PNL_G,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,GandA_Toekick,RECT_Param,1935.16,101.6,19.05,R_W_O,0,GandA_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,WALL_PNL_A,RECT_Param,2311.4,962.02,19.05,R_W_O,0,WALL_PNL_A,RECTparamCLEAF.bSolid,0,0,0,0,0
-4,biesse,bNest,41_AND_HALF_HEAD_PNL,RECT_Param,304.8,1054.1,19.05,R_W_O,0,41_AND_HALF_HEAD_PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,WALL_PNL_B,RECT_Param,2311.4,1123.95,19.05,R_W_O,0,WALL_PNL_B,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,WALL_PNL_B_Toekick,RECT_Param,1123.95,101.6,19.05,R_W_O,0,WALL_PNL_B_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,36_AND_QUARTER_HEAD_PNL,RECT_Param,304.8,920.75,19.05,R_W_O,0,36_AND_QUARTER_HEAD_PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,WALL_PNL_C,RECT_Param,2311.4,403.22,19.05,R_W_O,0,WALL_PNL_C,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,WALL_PNL_C_Toekick,RECT_Param,403.22,101.6,19.05,R_W_O,0,WALL_PNL_C_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,PNL_D,RECT_Param,2311.4,655.64,19.05,R_W_O,0,PNL_D,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,PNL_D_Toekick,RECT_Param,1311.27,101.6,19.05,R_W_O,0,PNL_D_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,PNL_E,RECT_Param,2311.4,558.8,19.05,R_W_O,0,PNL_E,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,Mirror_Toekick,RECT_Param,908.05,101.6,19.05,R_W_O,0,Mirror_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,PNL_F,RECT_Param,2311.4,203.2,19.05,R_W_O,0,PNL_F,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,H_I_PNL_Wing_Wall_Fronts,RECT_Param,2311.4,203.2,19.05,R_W_O,0,H_I_PNL_Wing_Wall_Fronts,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,H_I_Toekick_Wing_Wall_Toekicks,RECT_Param,203.2,101.6,19.05,R_W_O,0,H_I_Toekick_Wing_Wall_Toekicks,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,PNL_J_Wing_Wall_Front,RECT_Param,2311.4,193.67,19.05,R_W_O,0,PNL_J_Wing_Wall_Front,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,PNL_J_Wing_Wall_Toekicks,RECT_Param,193.67,101.6,19.05,R_W_O,0,PNL_J_Wing_Wall_Toekicks,RECTparamCLEAF.bSolid,0,0,0,0,0
-4,biesse,bNest,30_PNLD_Soffit,RECT_Param,393.7,762.0,19.05,R_W_O,0,30_PNLD_Soffit,RECTparamCLEAF.bSolid,0,0,0,0,0
-7,biesse,bNest,48_PNL_D_Soffit,RECT_Param,393.7,1219.2,19.05,R_W_O,0,48_PNL_D_Soffit,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,Concrete_Column_Back,RECT_Param,2311.4,482.6,19.05,R_W_O,0,Concrete_Column_Back,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,Concrete_Column_Toekick,RECT_Param,482.6,101.6,19.05,R_W_O,0,Concrete_Column_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL G,RECT_Param,2311.4,989.01,19.05,R_W_O,0,WALL PNL G,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,G+A Toekick,RECT_Param,1935.16,101.6,19.05,R_W_O,0,G+A Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL A,RECT_Param,2311.4,962.02,19.05,R_W_O,0,WALL PNL A,RECTparamCLEAF.bSolid,0,0,0,0,0
+4,biesse,bNest,41.5” HEAD PNL,RECT_Param,304.8,1054.1,19.05,R_W_O,0,41.5” HEAD PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL B,RECT_Param,2311.4,1123.95,19.05,R_W_O,0,WALL PNL B,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL B Toekick,RECT_Param,1123.95,101.6,19.05,R_W_O,0,WALL PNL B Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,36 1/4” HEAD PNL,RECT_Param,304.8,920.75,19.05,R_W_O,0,36 1/4” HEAD PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL C,RECT_Param,2311.4,403.22,19.05,R_W_O,0,WALL PNL C,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,WALL PNL C Toekick,RECT_Param,403.22,101.6,19.05,R_W_O,0,WALL PNL C Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL D,RECT_Param,2311.4,1311.27,19.05,R_W_O,0,PNL D,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL D Toekick,RECT_Param,1311.27,101.6,19.05,R_W_O,0,PNL D Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL E,RECT_Param,2311.4,558.8,19.05,R_W_O,0,PNL E,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,Mirror Toekick,RECT_Param,908.05,101.6,19.05,R_W_O,0,Mirror Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL F,RECT_Param,2311.4,203.2,19.05,R_W_O,0,PNL F,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,H & I PNL - Wing Wall Fronts,RECT_Param,2311.4,203.2,19.05,R_W_O,0,H & I PNL - Wing Wall Fronts,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,H & I Toekick - Wing Wall Toekicks,RECT_Param,203.2,101.6,19.05,R_W_O,0,H & I Toekick - Wing Wall Toekicks,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL J - Wing Wall Front,RECT_Param,2311.4,193.67,19.05,R_W_O,0,PNL J - Wing Wall Front,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,PNL J - Wing Wall Toekicks,RECT_Param,193.67,101.6,19.05,R_W_O,0,PNL J - Wing Wall Toekicks,RECTparamCLEAF.bSolid,0,0,0,0,0
+4,biesse,bNest,30” PNL’D Soffit,RECT_Param,393.7,762.0,19.05,R_W_O,0,30” PNL’D Soffit,RECTparamCLEAF.bSolid,0,0,0,0,0
+7,biesse,bNest,48” PNL’D Soffit,RECT_Param,393.7,1219.2,19.05,R_W_O,0,48” PNL’D Soffit,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,Concrete Column: Back,RECT_Param,2311.4,482.6,19.05,R_W_O,0,Concrete Column: Back,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,Concrete Column: Toekick,RECT_Param,482.6,101.6,19.05,R_W_O,0,Concrete Column: Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
 4,biesse,bNest,DR,RECT_Param,755.65,473.07,19.05,R_W_O,0,DR,RECTparamCLEAF.bSolid,0,0,0,0,0
 2,biesse,bNest,Fillers,RECT_Param,758.82,50.8,19.05,R_W_O,0,Fillers,RECTparamCLEAF.bSolid,0,0,0,0,0
 2,biesse,bNest,Ends,RECT_Param,758.82,447.67,19.05,R_W_O,0,Ends,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,ADA_ENDs,RECT_Param,841.38,447.67,19.05,R_W_O,0,ADA_ENDs,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,ADA ENDs,RECT_Param,841.38,447.67,19.05,R_W_O,0,ADA ENDs,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,Back,RECT_Param,758.82,954.09,19.05,R_W_O,0,Back,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,ADA_BACK,RECT_Param,841.38,954.09,19.05,R_W_O,0,ADA_BACK,RECTparamCLEAF.bSolid,0,0,0,0,0
-5,biesse,bNest,T_B_and_Adj_Shelf,RECT_Param,915.99,447.67,19.05,R_W_O,0,T_B_and_Adj_Shelf,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,Non_ADA_LF_FRT_Toekick,RECT_Param,514.35,101.6,19.05,R_W_O,0,Non_ADA_LF_FRT_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,Non_ADA_RT_FRT_Toekick,RECT_Param,474.66,101.6,19.05,R_W_O,0,Non_ADA_RT_FRT_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,ADA_Toekick_FRT,RECT_Param,473.07,76.2,19.05,R_W_O,0,ADA_Toekick_FRT,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,ADA_STUB_Toekick_FRT,RECT_Param,50.8,101.6,19.05,R_W_O,0,ADA_STUB_Toekick_FRT,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,Toekick_Frt_Back,RECT_Param,954.09,101.6,19.05,R_W_O,0,Toekick_Frt_Back,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,Toekick_JACKS,RECT_Param,361.95,101.6,19.05,R_W_O,0,Toekick_JACKS,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,FILLER_SUPPORT,RECT_Param,758.82,155.57,19.05,R_W_O,0,FILLER_SUPPORT,RECTparamCLEAF.bSolid,0,0,0,0,0
-1,biesse,bNest,ADA_FILLER_SUPPORT,RECT_Param,841.38,155.57,19.05,R_W_O,0,ADA_FILLER_SUPPORT,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,ADA BACK,RECT_Param,841.38,954.09,19.05,R_W_O,0,ADA BACK,RECTparamCLEAF.bSolid,0,0,0,0,0
+5,biesse,bNest,T&B and Adj. Shelf,RECT_Param,915.99,447.67,19.05,R_W_O,0,T&B and Adj. Shelf,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,Non-ADA LF. FRT. Toekick,RECT_Param,514.35,101.6,19.05,R_W_O,0,Non-ADA LF. FRT. Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,Non-ADA RT. FRT. Toekick,RECT_Param,474.66,101.6,19.05,R_W_O,0,Non-ADA RT. FRT. Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,ADA Toekick FRT.,RECT_Param,473.07,76.2,19.05,R_W_O,0,ADA Toekick FRT.,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,ADA STUB Toekick FRT.,RECT_Param,50.8,101.6,19.05,R_W_O,0,ADA STUB Toekick FRT.,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,Toekick Frt & Bak,RECT_Param,954.09,101.6,19.05,R_W_O,0,Toekick Frt & Bak,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,Toekick JACKS,RECT_Param,361.95,101.6,19.05,R_W_O,0,Toekick JACKS,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,FILLER SUPPORT,RECT_Param,758.82,155.57,19.05,R_W_O,0,FILLER SUPPORT,RECTparamCLEAF.bSolid,0,0,0,0,0
+1,biesse,bNest,ADA FILLER SUPPORT,RECT_Param,841.38,155.57,19.05,R_W_O,0,ADA FILLER SUPPORT,RECTparamCLEAF.bSolid,0,0,0,0,0
