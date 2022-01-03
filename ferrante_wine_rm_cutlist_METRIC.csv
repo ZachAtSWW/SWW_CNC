@@ -8,7 +8,7 @@ QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage
 2,biesse,bNest,36_AND_QUARTER_HEAD_PNL,RECT_Param,304.8,920.75,19.05,R_W_O,0,36_AND_QUARTER_HEAD_PNL,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,WALL_PNL_C,RECT_Param,2311.4,403.22,19.05,R_W_O,0,WALL_PNL_C,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,WALL_PNL_C_Toekick,RECT_Param,403.22,101.6,19.05,R_W_O,0,WALL_PNL_C_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
-2,biesse,bNest,PNL_D,RECT_Param,19.05,2311.4,1311.27,0,0,PNL_D,RECTparamCLEAF.bSolid,0,0,0,0,0
+2,biesse,bNest,PNL_D,RECT_Param,2311.4,655.64,19.05,R_W_O,0,PNL_D,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,PNL_D_Toekick,RECT_Param,1311.27,101.6,19.05,R_W_O,0,PNL_D_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,PNL_E,RECT_Param,2311.4,558.8,19.05,R_W_O,0,PNL_E,RECTparamCLEAF.bSolid,0,0,0,0,0
 1,biesse,bNest,Mirror_Toekick,RECT_Param,908.05,101.6,19.05,R_W_O,0,Mirror_Toekick,RECTparamCLEAF.bSolid,0,0,0,0,0
