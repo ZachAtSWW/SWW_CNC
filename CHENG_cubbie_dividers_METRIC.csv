@@ -1,0 +1,2 @@
+QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
+22,biesse,bNest,CUBBIE_DIVIDER#1,RECT_Param,493.71,320.67,7.94,BLACK_MELAMINE,0,CUBBIE_DIVIDER#1,RECTparam.bSolid,0,0,0,0,0

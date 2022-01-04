@@ -1,4 +1,0 @@
-﻿No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
-A,SHELF_BACK,1,"70""","11 1/8""","5/16""","70""","11 1/8""","5/16""",5.4080 ft²,CLEAF_CARBONE,"","","","","","",""
-B,CUBBIES_BACK,1,"26 1/2""","25 3/4""","5/16""","26 1/2""","25 3/4""","5/16""",4.7387 ft²,CLEAF_CARBONE,"","","","","","",""
-C,CUBBIE_DIVIDER,22,"20 15/16""","12 5/8""","5/16""","20 15/16""","12 5/8""","5/16""",1.8339 ft²,CLEAF_CARBONE,"","","","","","",""
