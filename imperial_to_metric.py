@@ -3,10 +3,10 @@ import csv
 """CSV cannot contain special characters '#', '&', etc"""
 
 # Name of csv being imported without '.csv'
-naming_config = 'ferrante_wine_rm_cutlist'
+naming_config = 'CHENG_cubbie_dividers'
 # .bSolid file referenced by bNest for tooling information
 # program_name =  'RECTparam.bSolid'
-program_name =  'RECTparamCLEAF.bSolid'
+program_name =  'RECTparam.bSolid'
 # Adding .csv
 opening_csv = naming_config + '.csv'
 # Adding 'METRIC' to differentiate between csv in inches
