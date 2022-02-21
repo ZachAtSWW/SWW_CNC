@@ -3,7 +3,7 @@ import csv
 """CSV cannot contain special characters '#', '&', etc"""
 
 # Name of csv being imported without '.csv'
-naming_config = 'CHENG_COOLDRAWER'
+naming_config = 'NESTING-GRANITO X 1 2” VICENZA OAK MATERIAL ORDER'
 # .bSolid file referenced by bNest for tooling information
 # program_name =  'RECTparam.bSolid'
 program_name =  'RECTparam.bSolid'
