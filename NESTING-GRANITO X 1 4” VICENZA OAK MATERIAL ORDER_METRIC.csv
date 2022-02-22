@@ -1,0 +1,4 @@
+QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
+1,biesse,bNest,BASE_CAB_BACKs,RECT_Param,736.6,613.57,6.35,VICENZA_OAK,0,BASE_CAB_BACKs,RECTparam.bSolid,0,0,0,0,0
+2,biesse,bNest,BASE_CAB_BACKs,RECT_Param,736.6,615.16,6.35,VICENZA_OAK,0,BASE_CAB_BACKs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,BASE_CAB_BACKs,RECT_Param,736.6,616.74,6.35,VICENZA_OAK,0,BASE_CAB_BACKs,RECTparam.bSolid,0,0,0,0,0

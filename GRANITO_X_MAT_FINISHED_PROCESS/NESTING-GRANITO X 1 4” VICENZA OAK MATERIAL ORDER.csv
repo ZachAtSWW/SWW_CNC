@@ -1,0 +1,4 @@
+No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,BASE_CAB_BACKs,1,"29""","24 5/32""",1/4”,"29""","24 5/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
+B,BASE_CAB_BACKs,2,"29""","24 7/32""",1/4”,"29""","24 7/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
+C,BASE_CAB_BACKs,1,"29""","24 9/32""",1/4”,"29""","24 9/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
