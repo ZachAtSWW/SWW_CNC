@@ -1,19 +1,19 @@
-QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
-8,biesse,bNest,BASE_CAB_ENDs,RECT_Param,736.6,596.9,19.05,VICENZA OAK,0,BASE_CAB_ENDs,RECTparam.bSolid,0,0,0,0,0
-2,biesse,bNest,BASE_CAB_TandBs,RECT_Param,575.47,596.9,19.05,VICENZA OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-6,biesse,bNest,BASE_CAB_TandBs,RECT_Param,577.06,596.9,19.05,VICENZA OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-3,biesse,bNest,BASE_CAB_TandBs ,RECT_Param,578.64,596.9,19.05,VICENZA OAK,0,BASE_CAB_TandBs ,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,BASE_CAB_TandBs,RECT_Param,535.78,596.9,19.05,VICENZA OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-10,biesse,bNest,UPPER CAB END’s,RECT_Param,1200.15,365.12,19.05,VICENZA OAK,0,UPPER CAB END’s,RECTparam.bSolid,0,0,0,0,0
-3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,365.12,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,282.57,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,301.62,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-6,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,365.12,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-2,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,282.57,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-2,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,301.62,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,365.12,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,282.57,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,301.62,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,365.12,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,282.57,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
-1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,301.62,19.05,VICENZA OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+﻿QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
+8,biesse,bNest,BASE_CAB_ENDs,RECT_Param,736.6,596.9,19.05,VICENZA_OAK,0,BASE_CAB_ENDs,RECTparam.bSolid,0,0,0,0,0
+2,biesse,bNest,BASE_CAB_TandBs,RECT_Param,575.47,596.9,19.05,VICENZA_OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+6,biesse,bNest,BASE_CAB_TandBs,RECT_Param,577.06,596.9,19.05,VICENZA_OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+3,biesse,bNest,BASE_CAB_TandBs ,RECT_Param,578.64,596.9,19.05,VICENZA_OAK,0,BASE_CAB_TandBs ,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,BASE_CAB_TandBs,RECT_Param,535.78,596.9,19.05,VICENZA_OAK,0,BASE_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+10,biesse,bNest,UPPER_CAB_ENDs,RECT_Param,1200.15,365.12,19.05,VICENZA_OAK,0,UPPER CAB ENDs,RECTparam.bSolid,0,0,0,0,0
+3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,365.12,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,282.57,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,575.47,301.62,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+6,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,365.12,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+2,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,282.57,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+2,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,577.06,301.62,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,365.12,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,282.57,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,578.64,301.62,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+3,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,365.12,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,282.57,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
+1,biesse,bNest,UPPER_CAB_TandBs,RECT_Param,573.88,301.62,19.05,VICENZA_OAK,0,UPPER_CAB_TandBs,RECTparam.bSolid,0,0,0,0,0
