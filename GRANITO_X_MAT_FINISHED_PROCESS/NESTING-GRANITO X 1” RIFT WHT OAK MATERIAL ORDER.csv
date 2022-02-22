@@ -1,0 +1,3 @@
+No.,Designation,Quantity,"Length - raw""","Width - raw""",Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,BASE_CAB_DRs,4,"28 7/8""","24 3/32""",1”,"28 7/8""","24 3/32""",1”,,RIFT_WHT_OAK,BASE_CAB_DRs,228_GYM,,,,,
+B,UPPER_CAB_DRs,5,"47 1/4""","24 3/32""",1”,"47 1/4""","24 3/32""",1”,,RIFT_WHT_OAK,UPPER_CAB_DRs,228_GYM,,,,,
