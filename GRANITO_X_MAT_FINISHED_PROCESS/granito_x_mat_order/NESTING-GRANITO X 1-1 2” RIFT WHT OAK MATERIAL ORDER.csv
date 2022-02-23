@@ -1,3 +1,4 @@
 No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
 A,BASE_CAB_ADJ_SHELVES,3,"24 5/8""","21 3/32""",1 1/2”,"24 5/8""","21 3/32""",1 1/2”,,RIFT_WHT_OAK,BASE_CAB_ADJ_SHELVES,228_GYM,,,,,
-,BASE_CAB_OPEN_CAB_ENDs,2,"29 3/4""","24 7/8""",1 1/2”,"29 3/4""","24 7/8""",1 1/2”,,RIFT_WHT_OAK,BASE_CAB_OPEN_CAB_ENDs,228_GYM,,,,,
+B,BASE_CAB_OPEN_CAB_ENDs,2,"29 3/4""","24 7/8""",1 1/2”,"29 3/4""","24 7/8""",1 1/2”,,RIFT_WHT_OAK,BASE_CAB_OPEN_CAB_ENDs,228_GYM,,,,,
+C,CTR_CAB_OPEN_SHELF,6,"30 11/32""","22 1/2""",1 1/2”,"30 11/32""","22 1/2""",1 1/2”,,RIFT_WHT_OAK,CTR_CAB_OPEN_SHELF,116_WINE_RM,,,,,

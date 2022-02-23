@@ -1,0 +1,8 @@
+No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Tags,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,UPPER_CAB_BACKs,1,"44 1/4""","24 5/32""",1/2”,"44 1/4""","24 5/32""",1/2”,,VICENZA_OAK,UPPER_CAB_BACKs,228_GYM,,,,,
+B,UPPER_CAB_BACKs,2,"44 1/4""","24 7/32""",1/2”,"44 1/4""","24 7/32""",1/2”,,VICENZA_OAK,UPPER_CAB_BACKs,228_GYM,,,,,
+C,UPPER_CAB_BACKs,1,"44 1/4""","24 9/32""",1/2”,"44 1/4""","24 9/32""",1/2”,,VICENZA_OAK,UPPER_CAB_BACKs,228_GYM,,,,,
+D,UPPER_CAB_BACKs,1,"44 1/4""","24 3/32""",1/2”,"44 1/4""","24 3/32""",1/2”,,VICENZA_OAK,UPPER_CAB_BACKs,228_GYM,,,,,
+E,CTR_CAB_LOWER_BACKs,2,"47 1/4""","25 1/8""",1/2”,"47 1/4""","25 1/8""",1/2”,,VICENZA_OAK,CTR_CAB_BACKs,226_LIBRARY,,,,,
+F,CTR_CAB_UPPER_BACKs,2,"55 1/4""","25 1/8""",1/2”,"55 1/4""","25 1/8""",1/2”,,VICENZA_OAK,CTR_CAB_BACKs,226_LIBRARY,,,,,
+G,CTR_CAB_TALL_BACKs,2,"107""","25 1/8""",1/2”,"107""","25 1/8""",1/2”,,VICENZA_OAK,CTR_CAB_BACKs,226_LIBRARY,,,,,

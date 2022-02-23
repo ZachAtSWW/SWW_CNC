@@ -2,3 +2,6 @@ No.,Designation,Quantity,Length - raw,Width - raw,Thickness - raw,Length - final
 A,BASE_CAB_BACKs,1,"29""","24 5/32""",1/4”,"29""","24 5/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
 B,BASE_CAB_BACKs,2,"29""","24 7/32""",1/4”,"29""","24 7/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
 C,BASE_CAB_BACKs,1,"29""","24 9/32""",1/4”,"29""","24 9/32""",1/4”,,VICENZA_OAK,BASE_CAB_BACKs,228_GYM,,,,,
+D,CAB_BACKs,1,"29""","22 9/16""",1/4”,"29""","22 9/16""",1/4”,,VICENZA_OAK,CAB_BACKs,221_LOUNGE,,,,,
+E,CAB_BACKs,2,"29""","22 5/8""",1/4”,"29""","22 5/8""",1/4”,,VICENZA_OAK,CAB_BACKs,221_LOUNGE,,,,,
+F,CAB_BACKs,1,"29""","23 13/16""",1/4”,"29""","23 13/16""",1/4”,,VICENZA_OAK,CAB_BACKs,221_LOUNGE,,,,,

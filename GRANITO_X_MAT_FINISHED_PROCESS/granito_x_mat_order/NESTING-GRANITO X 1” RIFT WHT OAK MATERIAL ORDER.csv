@@ -1,0 +1,11 @@
+No.,Designation,Quantity,"Length - raw""","Width - raw""",Thickness - raw,Length - final,Width - final,Thickness - final,Area - final,Material,Instance names,Description,Description,Edge length 1,Edge length 2,Edge width 1,Edge width 2
+A,BASE_CAB_DRs,4,"28 7/8""","24 3/32""",1”,"28 7/8""","24 3/32""",1”,,RIFT_WHT_OAK,BASE_CAB_DRs,228_GYM,,,,,
+B,UPPER_CAB_DRs,5,"47 1/4""","24 3/32""",1”,"47 1/4""","24 3/32""",1”,,RIFT_WHT_OAK,UPPER_CAB_DRs,228_GYM,,,,,
+C,CAB_DRs,3,"28 7/8""","22 1/2""",1”,"28 7/8""","22 1/2""",1”,,RIFT_WHT_OAK,CAB_DRs,221_LOUNGE,,,,,
+D,CAB_DRs,2,"28 7/8""","23 5/8""",1”,"28 7/8""","23 5/8""",1”,,RIFT_WHT_OAK,CAB_DRs,221_LOUNGE,,,,,
+E,DF,6,"7 3/32""","24 1/2""",1”,"7 3/32""","24 1/2""",1”,,RIFT_WHT_OAK,DF,116_WINE_RM,,,,,
+F,CTR_CAB_FIXED_PNL,1,"107""","15 1/4""",1”,"107""","15 1/4""",1”,,RIFT_WHT_OAK,CTR_CAB_FIXED_PNL,226_LIBRARY,,,,,
+G,CTR_CAB_FIXED_PNL,1,"107""","15 1/8""",1”,"107""","15 1/8""",1”,,RIFT_WHT_OAK,CTR_CAB_FIXED_PNL,226_LIBRARY,,,,,
+H,CTR_CAB_FIXED_PNL,2,"51 7/16""","24 15/16""",1”,"51 7/16""","24 15/16""",1”,,RIFT_WHT_OAK,CTR_CAB_FIXED_PNL,226_LIBRARY,,,,,
+I,CTR_CAB_DR,2,"55 7/16""","24 15/16""",1”,"55 7/16""","24 15/16""",1”,,RIFT_WHT_OAK,CTR_CAB_DR,226_LIBRARY,,,,,
+J,CTR_CAB_DR,2,"107""","24 15/16""",1”,"107""","24 15/16""",1”,,RIFT_WHT_OAK,CTR_CAB_DR,226_LIBRARY,,,,,

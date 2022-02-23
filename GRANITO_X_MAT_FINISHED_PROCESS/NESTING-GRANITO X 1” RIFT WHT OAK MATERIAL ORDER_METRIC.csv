@@ -1,3 +1,0 @@
-QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
-4,biesse,bNest,BASE_CAB_DRs,RECT_Param,733.42,611.98,25.4,RIFT_WHT_OAK,0,BASE_CAB_DRs,RECTparam.bSolid,0,0,0,0,0
-5,biesse,bNest,UPPER_CAB_DRs,RECT_Param,1200.15,611.98,25.4,RIFT_WHT_OAK,0,UPPER_CAB_DRs,RECTparam.bSolid,0,0,0,0,0

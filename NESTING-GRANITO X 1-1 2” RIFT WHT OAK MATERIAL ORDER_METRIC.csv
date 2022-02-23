@@ -1,3 +1,4 @@
 QTY,CustomerName,JobOrder,Name,DESC,LENGTH,WIDTH,THICK,WoodType,Grain,LabelImage,ProgramName,RotationStep,ProgramParameters,AdditionalMargin,Priority,OverProduction
 3,biesse,bNest,BASE_CAB_ADJ_SHELVES,RECT_Param,625.47,535.78,38.1,RIFT_WHT_OAK,0,BASE_CAB_ADJ_SHELVES,RECTparam.bSolid,0,0,0,0,0
 2,biesse,bNest,BASE_CAB_OPEN_CAB_ENDs,RECT_Param,755.65,631.82,38.1,RIFT_WHT_OAK,0,BASE_CAB_OPEN_CAB_ENDs,RECTparam.bSolid,0,0,0,0,0
+6,biesse,bNest,CTR_CAB_OPEN_SHELF,RECT_Param,770.73,571.5,38.1,RIFT_WHT_OAK,0,CTR_CAB_OPEN_SHELF,RECTparam.bSolid,0,0,0,0,0
